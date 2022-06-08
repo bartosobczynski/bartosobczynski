@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🚂 Ruby on Rails
+- 🪄 JS
+- ☁ AWS
+
 <!--
 **bartosobczynski/bartosobczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
